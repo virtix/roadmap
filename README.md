@@ -1,7 +1,8 @@
 RoadMap Stencil and Templates
 =======
 
-OmniGraffle stencil for generating strategic road maps.
+OmniGraffle stencil for generating strategic road maps. Special thanks goes
+to my compatriots at the @CFPB.
 
 <img src="https://github.com/virtix/roadmap/raw/master/screenshot.png" />
 
