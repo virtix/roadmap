@@ -4,13 +4,13 @@
 <dict>
 	<key>ApplicationVersion</key>
 	<array>
-		<string>com.omnigroup.OmniGrafflePro</string>
-		<string>139.18.0.187838</string>
+		<string>com.omnigroup.OmniGraffle6</string>
+		<string>159.1.0.220921</string>
 	</array>
 	<key>FileType</key>
-	<string>package</string>
+	<string>auto</string>
 	<key>GraphDocumentVersion</key>
-	<integer>8</integer>
+	<integer>12</integer>
 	<key>GuidesLocked</key>
 	<string>NO</string>
 	<key>GuidesVisible</key>
@@ -48,7 +48,7 @@
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{612, 792}</string>
+			<string>{611.99997711181641, 792}</string>
 		</array>
 		<key>NSRightMargin</key>
 		<array>
@@ -73,18 +73,13 @@
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
-				<string>{{0, 0}, {576, 734}}</string>
+				<string>{{0, 0}, {575.99997711181641, 734}}</string>
 				<key>Class</key>
 				<string>SolidGraphic</string>
 				<key>ID</key>
 				<integer>2</integer>
 				<key>Style</key>
 				<dict>
-					<key>shadow</key>
-					<dict>
-						<key>Draws</key>
-						<string>NO</string>
-					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -101,7 +96,7 @@
 			<key>ColumnSpacing</key>
 			<real>36</real>
 			<key>DisplayScale</key>
-			<string>1 0/72 in = 1.0000 in</string>
+			<string>1 in = 1.00000 in</string>
 			<key>ExportShapes</key>
 			<array>
 				<dict>
@@ -1022,14 +1017,12 @@
 						<string>{-1, 0}</string>
 					</array>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs24 \cf0 Fork and join}</string>
-					<key>Shape</key>
-					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1073,8 +1066,8 @@
 						<string>{-1, 0}</string>
 					</array>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -1126,8 +1119,8 @@
 					<key>ID</key>
 					<integer>230</integer>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -1199,8 +1192,6 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>490</integer>
@@ -1264,8 +1255,6 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>491</integer>
@@ -1329,8 +1318,6 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>492</integer>
@@ -1394,8 +1381,6 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>493</integer>
@@ -1459,8 +1444,6 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>494</integer>
@@ -1523,8 +1506,6 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>495</integer>
@@ -1588,8 +1569,6 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>496</integer>
@@ -1653,8 +1632,6 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>497</integer>
@@ -1716,8 +1693,6 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>498</integer>
@@ -1781,8 +1756,6 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>499</integer>
@@ -1846,8 +1819,6 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>500</integer>
@@ -1911,13 +1882,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>501</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -1976,8 +1943,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -1996,13 +1963,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>502</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2061,8 +2024,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -2081,13 +2044,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>503</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2146,8 +2105,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -2166,13 +2125,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>504</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2231,8 +2186,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -2251,13 +2206,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>505</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2316,8 +2267,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -2336,13 +2287,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>506</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2401,8 +2348,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -2421,13 +2368,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>507</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2486,8 +2429,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -2506,13 +2449,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>508</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2571,8 +2510,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -2591,13 +2530,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>509</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2656,8 +2591,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -2676,13 +2611,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>510</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2741,8 +2672,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -2761,13 +2692,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>511</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2826,8 +2753,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -2846,13 +2773,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>512</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2911,8 +2834,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -2931,13 +2854,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>513</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -2996,8 +2915,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -3016,13 +2935,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>514</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3081,8 +2996,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -3101,13 +3016,9 @@
 							<dict>
 								<key>Font</key>
 								<string>Helvetica-Bold</string>
-								<key>Size</key>
-								<real>16</real>
 							</dict>
 							<key>ID</key>
 							<integer>515</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3166,8 +3077,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -3181,8 +3092,8 @@
 					<key>ID</key>
 					<integer>489</integer>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -3200,8 +3111,6 @@
 							<string>ShapedGraphic</string>
 							<key>ID</key>
 							<integer>340</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3260,8 +3169,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -3343,8 +3252,6 @@
 							<string>ShapedGraphic</string>
 							<key>ID</key>
 							<integer>342</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3403,8 +3310,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -3421,8 +3328,6 @@
 							<string>ShapedGraphic</string>
 							<key>ID</key>
 							<integer>343</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3481,8 +3386,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -3499,8 +3404,6 @@
 							<string>ShapedGraphic</string>
 							<key>ID</key>
 							<integer>344</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3559,8 +3462,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -3769,8 +3672,6 @@
 							<string>ShapedGraphic</string>
 							<key>ID</key>
 							<integer>348</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3829,8 +3730,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -3847,8 +3748,6 @@
 							<string>ShapedGraphic</string>
 							<key>ID</key>
 							<integer>349</integer>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -3907,8 +3806,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -3991,8 +3890,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -4008,8 +3907,8 @@
 					<key>ID</key>
 					<integer>339</integer>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -4038,8 +3937,8 @@
 						<string>{0.5, 0}</string>
 					</array>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -4102,8 +4001,8 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -4138,8 +4037,8 @@
 						<string>{-9.7095154139026363e-10, 3.7219811677147163e-09}</string>
 					</array>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -4202,8 +4101,8 @@
 						<key>Pad</key>
 						<integer>4</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -4238,8 +4137,8 @@
 						<string>{-8.5891871393073416e-10, 3.7219811677147163e-09}</string>
 					</array>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -4300,8 +4199,8 @@
 						<key>Pad</key>
 						<integer>4</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -4336,8 +4235,8 @@
 						<string>{-1.2406603522308046e-09, 3.7219811677147163e-09}</string>
 					</array>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -4398,8 +4297,8 @@
 						<key>Pad</key>
 						<integer>4</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -4449,6 +4348,8 @@
 				<real>0.0</real>
 				<key>layoutEngine</key>
 				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
 				<key>neatoSeparation</key>
 				<real>0.0</real>
 				<key>twopiSeparation</key>
@@ -4477,18 +4378,13 @@
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
-				<string>{{0, 0}, {576, 734}}</string>
+				<string>{{0, 0}, {575.99997711181641, 734}}</string>
 				<key>Class</key>
 				<string>SolidGraphic</string>
 				<key>ID</key>
 				<integer>2</integer>
 				<key>Style</key>
 				<dict>
-					<key>shadow</key>
-					<dict>
-						<key>Draws</key>
-						<string>NO</string>
-					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -4505,7 +4401,7 @@
 			<key>ColumnSpacing</key>
 			<real>36</real>
 			<key>DisplayScale</key>
-			<string>1 0/72 in = 1.0000 in</string>
+			<string>1 in = 1.00000 in</string>
 			<key>GraphicsList</key>
 			<array>
 				<dict>
@@ -4529,8 +4425,6 @@
 							<integer>514</integer>
 							<key>Rotation</key>
 							<real>270</real>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4589,8 +4483,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -4616,8 +4510,6 @@
 							<integer>515</integer>
 							<key>Rotation</key>
 							<real>270</real>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4676,8 +4568,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -4703,8 +4595,6 @@
 							<integer>516</integer>
 							<key>Rotation</key>
 							<real>270</real>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4763,8 +4653,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -4796,8 +4686,6 @@
 								<string>{-0.5, 0}</string>
 								<string>{0, 0}</string>
 							</array>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4868,8 +4756,6 @@
 								<string>{-0.5, 0}</string>
 								<string>{0, 0}</string>
 							</array>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4942,8 +4828,6 @@
 								<string>{-0.5, 0}</string>
 								<string>{0, 0}</string>
 							</array>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -4998,8 +4882,8 @@
 					<key>ID</key>
 					<integer>513</integer>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -5026,8 +4910,6 @@
 							<integer>494</integer>
 							<key>Rotation</key>
 							<real>270</real>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5086,8 +4968,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -5113,8 +4995,6 @@
 							<integer>495</integer>
 							<key>Rotation</key>
 							<real>270</real>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5173,8 +5053,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -5206,8 +5086,6 @@
 								<string>{-0.5, 0}</string>
 								<string>{0, 0}</string>
 							</array>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5278,8 +5156,6 @@
 								<string>{-0.5, 0}</string>
 								<string>{0, 0}</string>
 							</array>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5334,8 +5210,8 @@
 					<key>ID</key>
 					<integer>493</integer>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -5362,8 +5238,6 @@
 							<integer>499</integer>
 							<key>Rotation</key>
 							<real>270</real>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5422,8 +5296,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -5449,8 +5323,6 @@
 							<integer>500</integer>
 							<key>Rotation</key>
 							<real>270</real>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5509,8 +5381,8 @@
 								<key>Pad</key>
 								<integer>4</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -5542,8 +5414,6 @@
 								<string>{-0.5, 0}</string>
 								<string>{0, 0}</string>
 							</array>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5614,8 +5484,6 @@
 								<string>{-0.5, 0}</string>
 								<string>{0, 0}</string>
 							</array>
-							<key>Shape</key>
-							<string>Rectangle</string>
 							<key>Style</key>
 							<dict>
 								<key>fill</key>
@@ -5670,8 +5538,8 @@
 					<key>ID</key>
 					<integer>498</integer>
 					<key>Notes</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -5715,6 +5583,8 @@
 				<real>0.0</real>
 				<key>layoutEngine</key>
 				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
 				<key>neatoSeparation</key>
 				<real>0.0</real>
 				<key>twopiSeparation</key>
@@ -5743,18 +5613,13 @@
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
-				<string>{{0, 0}, {576, 734}}</string>
+				<string>{{0, 0}, {575.99997711181641, 734}}</string>
 				<key>Class</key>
 				<string>SolidGraphic</string>
 				<key>ID</key>
 				<integer>2</integer>
 				<key>Style</key>
 				<dict>
-					<key>shadow</key>
-					<dict>
-						<key>Draws</key>
-						<string>NO</string>
-					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -5771,7 +5636,7 @@
 			<key>ColumnSpacing</key>
 			<real>36</real>
 			<key>DisplayScale</key>
-			<string>1 0/72 in = 1.0000 in</string>
+			<string>1 in = 1.00000 in</string>
 			<key>ExportShapes</key>
 			<array>
 				<dict>
@@ -6706,8 +6571,8 @@
 										<string>{-9.7095154139026363e-10, 3.7219811677147163e-09}</string>
 									</array>
 									<key>Notes</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -6770,8 +6635,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -6796,8 +6661,8 @@
 									<key>ID</key>
 									<integer>774</integer>
 									<key>Notes</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -6868,8 +6733,8 @@
 									<key>ID</key>
 									<integer>775</integer>
 									<key>Notes</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -6947,8 +6812,8 @@
 									<key>ID</key>
 									<integer>776</integer>
 									<key>Notes</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -7034,8 +6899,8 @@
 										<string>{-9.7095154139026363e-10, 3.7219811677147163e-09}</string>
 									</array>
 									<key>Notes</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -7098,8 +6963,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -7130,14 +6995,12 @@
 										<string>{-1, 0}</string>
 									</array>
 									<key>Notes</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs24 \cf0 Fork and join}</string>
-									<key>Shape</key>
-									<string>Rectangle</string>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -7189,8 +7052,8 @@
 										<string>{-8.5891871393073416e-10, 3.7219811677147163e-09}</string>
 									</array>
 									<key>Notes</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -7251,8 +7114,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -7287,8 +7150,8 @@
 										<string>{-8.5891871393073416e-10, 3.7219811677147163e-09}</string>
 									</array>
 									<key>Notes</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -7349,8 +7212,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -7442,8 +7305,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -7478,7 +7341,7 @@
 									<array>
 										<string>{138, 337.00000010049348}</string>
 										<string>{233.23876953125, 337}</string>
-										<string>{233.52249986865459, 354.87501574688781}</string>
+										<string>{233.52249986860966, 354.87501574405672}</string>
 									</array>
 									<key>Rotation</key>
 									<real>90</real>
@@ -7613,8 +7476,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -7704,8 +7567,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -7738,9 +7601,9 @@
 									<integer>785</integer>
 									<key>Points</key>
 									<array>
-										<string>{233.3637660440308, 226.50093291010288}</string>
+										<string>{233.36376605066613, 226.50093291015239}</string>
 										<string>{300.23876953125, 227}</string>
-										<string>{300.58216036438864, 256.87500825668468}</string>
+										<string>{300.58216036438699, 256.87500825654428}</string>
 									</array>
 									<key>Rotation</key>
 									<real>90</real>
@@ -7877,8 +7740,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -7968,8 +7831,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -8059,8 +7922,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -8162,8 +8025,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural
@@ -8189,8 +8052,6 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>791</integer>
@@ -8254,8 +8115,6 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>792</integer>
@@ -8319,8 +8178,6 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>793</integer>
@@ -8384,8 +8241,6 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>794</integer>
@@ -8449,8 +8304,6 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>795</integer>
@@ -8512,8 +8365,6 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>796</integer>
@@ -8577,8 +8428,6 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>797</integer>
@@ -8642,8 +8491,6 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>798</integer>
@@ -8705,8 +8552,6 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>799</integer>
@@ -8770,8 +8615,6 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>800</integer>
@@ -8835,8 +8678,6 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>801</integer>
@@ -8900,13 +8741,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>802</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -8965,8 +8802,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -8985,13 +8822,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>803</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9050,8 +8883,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -9070,13 +8903,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>804</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9135,8 +8964,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -9155,13 +8984,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>805</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9220,8 +9045,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -9240,13 +9065,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>806</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9305,8 +9126,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -9325,13 +9146,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>807</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9390,8 +9207,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -9410,13 +9227,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>808</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9475,8 +9288,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -9495,13 +9308,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>809</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9560,8 +9369,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -9580,13 +9389,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>810</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9645,8 +9450,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -9665,13 +9470,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>811</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9730,8 +9531,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -9750,13 +9551,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>812</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9815,8 +9612,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -9835,13 +9632,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>813</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9900,8 +9693,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -9920,13 +9713,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>814</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -9985,8 +9774,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -10005,13 +9794,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>815</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10070,8 +9855,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -10090,13 +9875,9 @@
 											<dict>
 												<key>Font</key>
 												<string>Helvetica-Bold</string>
-												<key>Size</key>
-												<real>16</real>
 											</dict>
 											<key>ID</key>
 											<integer>816</integer>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10155,8 +9936,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -10191,8 +9972,6 @@
 											<integer>818</integer>
 											<key>Rotation</key>
 											<real>270</real>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10251,8 +10030,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -10278,8 +10057,6 @@
 											<integer>819</integer>
 											<key>Rotation</key>
 											<real>270</real>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10338,8 +10115,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -10371,8 +10148,6 @@
 												<string>{-0.5, 0}</string>
 												<string>{0, 0}</string>
 											</array>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10443,8 +10218,6 @@
 												<string>{-0.5, 0}</string>
 												<string>{0, 0}</string>
 											</array>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10520,8 +10293,6 @@
 											<integer>823</integer>
 											<key>Rotation</key>
 											<real>270</real>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10580,8 +10351,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -10607,8 +10378,6 @@
 											<integer>824</integer>
 											<key>Rotation</key>
 											<real>270</real>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10667,8 +10436,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -10694,8 +10463,6 @@
 											<integer>825</integer>
 											<key>Rotation</key>
 											<real>270</real>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10754,8 +10521,8 @@
 												<key>Pad</key>
 												<integer>4</integer>
 												<key>Text</key>
-												<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -10787,8 +10554,6 @@
 												<string>{-0.5, 0}</string>
 												<string>{0, 0}</string>
 											</array>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10859,8 +10624,6 @@
 												<string>{-0.5, 0}</string>
 												<string>{0, 0}</string>
 											</array>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10933,8 +10696,6 @@
 												<string>{-0.5, 0}</string>
 												<string>{0, 0}</string>
 											</array>
-											<key>Shape</key>
-											<string>Rectangle</string>
 											<key>Style</key>
 											<dict>
 												<key>fill</key>
@@ -10989,8 +10750,8 @@
 									<key>ID</key>
 									<integer>822</integer>
 									<key>Notes</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -11012,8 +10773,6 @@
 									<string>ShapedGraphic</string>
 									<key>ID</key>
 									<integer>830</integer>
-									<key>Shape</key>
-									<string>Rectangle</string>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -11072,8 +10831,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -11155,8 +10914,6 @@
 									<string>ShapedGraphic</string>
 									<key>ID</key>
 									<integer>832</integer>
-									<key>Shape</key>
-									<string>Rectangle</string>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -11215,8 +10972,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -11233,8 +10990,6 @@
 									<string>ShapedGraphic</string>
 									<key>ID</key>
 									<integer>833</integer>
-									<key>Shape</key>
-									<string>Rectangle</string>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -11293,8 +11048,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -11311,8 +11066,6 @@
 									<string>ShapedGraphic</string>
 									<key>ID</key>
 									<integer>834</integer>
-									<key>Shape</key>
-									<string>Rectangle</string>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -11371,8 +11124,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -11581,8 +11334,6 @@
 									<string>ShapedGraphic</string>
 									<key>ID</key>
 									<integer>838</integer>
-									<key>Shape</key>
-									<string>Rectangle</string>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -11641,8 +11392,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -11659,8 +11410,6 @@
 									<string>ShapedGraphic</string>
 									<key>ID</key>
 									<integer>839</integer>
-									<key>Shape</key>
-									<string>Rectangle</string>
 									<key>Style</key>
 									<dict>
 										<key>fill</key>
@@ -11719,8 +11468,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -11803,8 +11552,8 @@
 										<key>Pad</key>
 										<integer>4</integer>
 										<key>Text</key>
-										<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+										<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\pardeftab720\pardirnatural\qc
@@ -11864,6 +11613,8 @@
 				<real>0.0</real>
 				<key>layoutEngine</key>
 				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
 				<key>neatoSeparation</key>
 				<real>0.0</real>
 				<key>twopiSeparation</key>
@@ -11910,27 +11661,16 @@
 	<dict>
 		<key>CurrentSheet</key>
 		<integer>2</integer>
-		<key>ExpandedCanvases</key>
-		<array>
-			<dict>
-				<key>name</key>
-				<string>Timeline Elements</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>Buckets</string>
-			</dict>
-		</array>
-		<key>ListView</key>
-		<false/>
-		<key>OutlineWidth</key>
-		<integer>142</integer>
-		<key>RightSidebar</key>
-		<false/>
+		<key>Expanded_Canvases</key>
+		<array/>
+		<key>ShowInfo</key>
+		<true/>
 		<key>Sidebar</key>
 		<true/>
 		<key>SidebarWidth</key>
-		<integer>138</integer>
+		<integer>200</integer>
+		<key>TopSlabHeight</key>
+		<real>250</real>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
